@@ -1,0 +1,56 @@
+body{background: #262626;}
+a{text-decoration: none;color:#000;}
+
+/*This is for top-header-section*/
+
+.header-top{background: #ffffff;margin-top:10px;padding-right: 0px;padding-left: 0px;}
+.header-top img{width: 100%;min-height: 25px;}
+.header-top p{text-transform: uppercase;}
+
+.header-section{background: #ffffff;}
+.logo{}
+.logo img{width: 370px;margin-bottom: 12px;}
+
+.fas.fa-bars {
+  color:black;
+    background: gray;
+    font-size: 25px;
+    opacity: 0.5;
+    padding:12px 20px;
+}
+.navbar-toggler{border: 0;margin-bottom: 15px;padding-left: 0px;}
+button.navbar-toggler:focus{outline:0;}
+.navbar-nav{margin:0 auto;}
+
+.blog-section{color:#000;}
+.blog-first{}
+
+.blog-first-content,.blog-second-content,.blog-third-content{background:#EFEFEF;position: relative;padding-bottom: 10px;}
+.blog-first h1,.blog-second h1{color:#FD5146;font-size: 20px;}
+.img-1{width:371px;}
+.label{position:absolute;top:0;left:0;color:#ffffff;padding: 5px 15px;}
+
+.label1{background: #008BC2;}
+.label2{background:#004D89;}
+.label3{background:#008BC2;}
+.label4,.label8,.label11{background:#E83D24;}
+.label5,.label6,.label10{background:#008BC2;}
+.label7{background: #B8B9B3;}
+.label9,.label12{background: #ED7100;}
+.blog-first-content h2,.blog-second-content h2,.blog-third-content h2{font-size:26px; }
+.blog-first-content p,.blog-second-content p,.blog-third-content p{font-size: 16px;text-align: justify;color:#000;}
+
+.page-link{color:#000;}
+
+.widget1 form input{border:2px solid #000;}
+.widget1,.widget2,.widget3,.widget4{margin-bottom: 15px;}
+.widget1,.widget2,.widget3,.widget4{padding-bottom: 15px;}
+.widget1 h1,.widget2 h1,.widget3 h1,.widget4 h1,.widget5 h1{font-size: 20px;padding-bottom: 5px;}
+.widget2 p,.widget3 p,.widget4 p{font-size: 16px;padding: 0px 0px;margin:0;}
+.widget2 p span,.widget3 p span,.widget4 p span{background: #000000;color:#ffffff;padding: 4px 5px;margin-right: 10px;font-size: 14px;}
+
+.footer-section{background-image: url(../images/bottom_BG.png);background-repeat: no-repeat;background-size:cover;height: auto;width: 100%; background-position: left top;}
+.footer-section span{color:#45BA67;font-size: 1.5rem;}
+.left-section,.right-section{background: #06466F;color:#fff;min-height: 215px;}
+.img{margin:0 auto;}
+.footer-img{margin-top:300px;margin-bottom: 30px;}
